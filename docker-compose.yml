@@ -1,12 +1,14 @@
-version: '3'
+version: "3"
 services:
   jenkins:
     container_name: jenkins
-    image: jenkins/jenkins
+    image: jenkins-ansible
     ports:
       - "8080:8080"
     volumes:
       - $PWD/jenkins_home:/var/jenkins_home
+    build:
+      context: jenkins-ansible
     networks:
       - net
   remote_host:
@@ -25,5 +27,14 @@ services:
       - "$PWD/db_data:/var/lib/mysql"
     networks:
       - net
+  web:
+    container_name: web
+    image: ansible-web
+    build:
+      context: jenkins-ansible/web
+    ports:
+     - "80:80"
+    networks:
+     - net
 networks:
   net:

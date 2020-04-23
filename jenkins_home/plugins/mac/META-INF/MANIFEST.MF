@@ -1,0 +1,26 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: md5c715n
+Build-Jdk: 1.8.0_201
+Extension-Name: mac
+Specification-Title: A good utility to build yours IOS apps, this plug
+ in create MacOs agents for yours builds.
+Implementation-Title: mac
+Implementation-Version: 1.2.1
+Group-Id: fr.edf.jenkins.plugins
+Short-Name: mac
+Long-Name: Mac Plugin
+Url: https://github.com/jenkinsci/mac-plugin/
+Minimum-Java-Version: 1.8
+Plugin-Version: 1.2.1
+Hudson-Version: 2.176.3
+Jenkins-Version: 2.176.3
+Plugin-Dependencies: credentials:2.3.0,durable-task:1.30,plain-credent
+ ials:1.5
+Plugin-Developers: Mathieu Delrocq:mat1e:delrocq.mathieu@gmail.com
+Plugin-License-Name: MIT License
+Plugin-License-Url: https://github.com/jenkinsci/mac-plugin/blob/maste
+ r/LICENSE
+Plugin-ScmUrl: https://github.com/jenkinsci/mac-plugin
+

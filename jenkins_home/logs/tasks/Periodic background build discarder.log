@@ -1,0 +1,48 @@
+Started at Thu Apr 23 05:21:49 UTC 2020
+Processing ansible-test
+Offering ansible-test to Project Build Discarder
+Processing ansible-test1
+Offering ansible-test1 to Project Build Discarder
+Processing myFirstJob
+Offering myFirstJob to Project Build Discarder
+Finished at Thu Apr 23 05:21:49 UTC 2020. 48ms
+Started at Thu Apr 23 09:52:11 UTC 2020
+Processing ansible-test
+Offering ansible-test to Project Build Discarder
+Processing ansible-test1
+Offering ansible-test1 to Project Build Discarder
+Processing myFirstJob
+Offering myFirstJob to Project Build Discarder
+Finished at Thu Apr 23 09:52:11 UTC 2020. 12ms
+Started at Thu Apr 23 10:52:07 UTC 2020
+Processing ansible-test
+Offering ansible-test to Project Build Discarder
+Processing ansible-test1
+Offering ansible-test1 to Project Build Discarder
+Processing myFirstJob
+Offering myFirstJob to Project Build Discarder
+Finished at Thu Apr 23 10:52:07 UTC 2020. 24ms
+Started at Thu Apr 23 13:28:12 UTC 2020
+Processing ansible-test
+Offering ansible-test to Project Build Discarder
+Processing ansible-test1
+Offering ansible-test1 to Project Build Discarder
+Processing myFirstJob
+Offering myFirstJob to Project Build Discarder
+Finished at Thu Apr 23 13:28:12 UTC 2020. 15ms
+Started at Thu Apr 23 14:28:08 UTC 2020
+Processing ansible-test
+Offering ansible-test to Project Build Discarder
+Processing ansible-test1
+Offering ansible-test1 to Project Build Discarder
+Processing myFirstJob
+Offering myFirstJob to Project Build Discarder
+Finished at Thu Apr 23 14:28:08 UTC 2020. 14ms
+Started at Thu Apr 23 15:28:04 UTC 2020
+Processing ansible-test
+Offering ansible-test to Project Build Discarder
+Processing ansible-test1
+Offering ansible-test1 to Project Build Discarder
+Processing myFirstJob
+Offering myFirstJob to Project Build Discarder
+Finished at Thu Apr 23 15:28:04 UTC 2020. 10ms
